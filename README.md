@@ -2,8 +2,6 @@
 
 I'm DevOps / Platform Engineer from Argentina who is passionate about technologies such as Chaos Engineering, Git-Ops, Docker, Kubernetes, and Security.
 
-I am currently working as a DevOps Consultant at [The Infra Ops Company](https://tioc.io/).
-
 ## Tools:
 
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
