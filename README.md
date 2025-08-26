@@ -1,6 +1,6 @@
 # Hey 👋, I'm Daniel Lopez Monagas
 
-I'm DevOps / Platform Engineer from Argentina who is passionate about technologies such as Chaos Engineering, Git-Ops, Docker, Kubernetes, and Security.
+I'm DevOps / Platform Engineer from Argentina who is passionate about technologies such as Chaos Engineering, Git-Ops, Docker, Kubernetes, Homelab enviroment and Security.
 
 ## Tools:
 
